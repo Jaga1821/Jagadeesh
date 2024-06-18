@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagadeesh Nakireddy</h1>
 <h3 align="center">A passionate JAVA FULLSTACK Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3--interactive-design-material-design.jpg">
 
 - 🔭 I’m currently working on [Banking Application](https://github.com/Jaga1821/Banking_Project)
 
